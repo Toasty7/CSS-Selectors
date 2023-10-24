@@ -38,7 +38,12 @@
       }
       a:active {
         color: red;}
+      style{background-position-y: center;}
+      style{border: #D55C5F;}
+      ::backdrop{color: aquamarine;}
+      
 
+        
     .button:link,
                                 /* Change this */
 .button:visited {             /* Change this */
